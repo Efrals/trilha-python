@@ -25,6 +25,8 @@ print(palavra[0])
 
 
 #Sempre retornará exceção ao tentar fazer qualquer alteração nas tuplas
+#É permitido fazer alterações antes das variáveis se tornarem tuplas
+#É permitido somente fazer consultas em tuplas
 matriz.clear()
 print(matriz)
 
